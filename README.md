@@ -12,4 +12,4 @@ Included are:
 - pages folder with the Python files for the different pages of the web app.
 - Python files for creating the SQL database and running the Streamlit web app.
 
-The finalized web app can be found [here](https://share.streamlit.io/jimpeterman/metis_engineering/main/app.py)
+The finalized web app can be found [HERE](https://share.streamlit.io/jimpeterman/metis_engineering/main/app.py).
