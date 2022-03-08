@@ -28,7 +28,7 @@ _Publications summary_: A list of publications from FRIEND is collected via webs
 
 _Fitness percentile calculator_: An individual’s fitness percentile can be calculated based on age, sex, fitness level, and exercise test mode. The fitness percentile is calculated from [current fitness reference standards](https://www.mayoclinicproceedings.org/article/S0025-6196(21)00645-5/fulltext), of which I led the analysis. 
 
-_Regression models_: An OLS linear regression model is created using sklearn to predict an individual’s fitness from their age, sex, height, weight, test exercise mode, and country (I have [previously published findings of global differences in fitness](https://pubmed.ncbi.nlm.nih.gov/31883698/)). An additional global regression model is also created. Along with the prediction of fitness, the individual’s fitness percentile is calculated. Performance metrics (i.e., R^2, RMSE, MAE) along with figures of model fit are determined for each regression model using sklearn and matplotlib.
+_Regression models_: An OLS linear regression model is created using sklearn to predict an individual’s fitness from their age, sex, height, weight, test exercise mode, and country (I have [previously published findings of global differences in fitness](https://pubmed.ncbi.nlm.nih.gov/31883698/)). An additional global regression model is also created. Along with the prediction of fitness, the individual’s fitness percentile is calculated. Performance metrics (i.e., R<sup>2</sup>, RMSE, MAE) along with figures of model fit are determined for each regression model using sklearn and matplotlib.
 
 _Web app_: The web app is deployed using Streamlit.
 
