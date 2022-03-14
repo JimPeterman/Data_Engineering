@@ -34,3 +34,12 @@ _ref calcs_: This is the function used to determine fitness percentiles.
 _sql db creation_: File to convert the .xlsx database into a SQL database. The result is saved on my local computer and not in the data folder since FRIEND is not currently available to all of the public.
 
 _requirements_: A list of the libraries used by Streamlit to run the app. From the terminal, can type “pip show pandas” to find version. 
+
+
+### Process:
+With new data to FRIEND:
+- Run sql_db_creation.py to update SQL database.
+- Run main_summary.py to update summary files/figures.
+
+For new publications:
+- Run publication_scraper.py (within the analysis folder).
