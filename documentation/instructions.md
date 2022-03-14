@@ -25,7 +25,7 @@ _documentation Folder_: includes presentation and written summary used for Metis
 ### Files:
 _app_: The primary file used by Streamlit to deploy the web app.
 
-_main summary_: Run this to update the data folder for the web app.
+_main summary_: Run this to update the data folder for the web app (does not update publications).
 
 _multipage_: This is used by app.py to make multiple pages within Streamlit.
 
