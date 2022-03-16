@@ -1,6 +1,6 @@
 # FRIEND Data Pipeline and Web App
 
-In brief, the goal of this project was to create a web app that highlights various aspects of the Fitness Registry and Importance of Exercise International Database (FRIEND) that can be updated in real-time. **The web app can be found [HERE](https://share.streamlit.io/jimpeterman/metis_engineering/main/app.py)**.
+In brief, the goal of this project was to create a web app that highlights various aspects of the Fitness Registry and Importance of Exercise International Database (FRIEND) that can be updated in real-time. **The web app can be found [HERE](https://share.streamlit.io/jimpeterman/friend_app/main/app.py)**.
 
 ### The Rationale:
 The American Heart Association recommends that fitness (i.e., maximum oxygen consumption [VO2max]) be considered a clinical vital sign that is regularly assessed in the same manner as other risk factors (e.g., blood pressure, cholesterol levels, and body weight). Like other risk factors, the accurate interpretation of fitness requires reference standards to stratify patient risk by first determining what constitutes a “normal” value for that individual. The **Fitness Registry and Importance of Exercise International Database (FRIEND)** was established with the goal of creating accurate fitness reference standards. Accurate reference standards, though, require representative data from around the US and world. 
@@ -10,7 +10,7 @@ Of note, measuring fitness by having an individual perform an exercise test is n
 FRIEND currently contains data from over 120k fitness tests, yet more data is needed. In my position at Ball State University, I have been working to increase the contributions of data to FRIEND. To better increase interest and data contributions to the registry, **_the goal of this project was to create a web app that highlights various aspects of FRIEND that can be updated in real-time as data is added to FRIEND_**. As it so happens, I was able to combine this goal with my fifth and final project for my Metis Data Science Bootcamp, in which the guidelines were to build a data pipeline and/or web app.
 
 ### The Final Product:
-The data pipeline for this project allows for real-time updates to the web app as data is added to FRIEND. **The web app can be found [HERE](https://share.streamlit.io/jimpeterman/metis_engineering/main/app.py)**. The web app itself is interactive to foster interest in FRIEND and includes:
+The data pipeline for this project allows for real-time updates to the web app as data is added to FRIEND. **The web app can be found [HERE](https://share.streamlit.io/jimpeterman/friend_app/main/app.py)**. The web app itself is interactive to foster interest in FRIEND and includes:
 - Maps indicating where data within FRIEND has been collected.
 - Distributions of some variables within FRIEND.
 - Trends in fitness across ages and across different categories (e.g., different US Census regions, treadmill vs. cycling).
