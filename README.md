@@ -11,16 +11,11 @@ FRIEND currently contains data from over 120k fitness tests, yet more data is ne
 
 ### The Final Product:
 The data pipeline for this project allows for real-time updates to the web app as data is added to FRIEND. **The web app can be found [HERE](https://share.streamlit.io/jimpeterman/friend_app/main/app.py)**. The web app itself is interactive to foster interest in FRIEND and includes:
-- Maps indicating where data within FRIEND has been collected:
-![map](images/US_map.png)
-- Distributions of some variables within FRIEND:
-![map](images/age_dist.png)
-- Trends in fitness across ages and across different categories (e.g., different US Census regions, treadmill vs. cycling):
-![map](images/vo2_trends.png)
-- Trends in other health metrics across ages (e.g., blood pressure, BMI):
-![map](images/height_trends.png)
+- Maps indicating where data within FRIEND has been collected.
+- Distributions of some variables within FRIEND.
+- Trends in fitness across ages and across different categories (e.g., different US Census regions, treadmill vs. cycling).
+- Trends in other health metrics across ages (e.g., blood pressure, BMI).
 - Determinations of fitness percentile based on user-entered values. If fitness level is unknown, real-time prediction models can be used to estimate fitness and fitness percentile. For those interested, performance metrics for these models can also be viewed.
-![map](images/fitness_assessments.png)
 - A list of publications that have come from FRIEND.
 
 
