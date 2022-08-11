@@ -1,7 +1,5 @@
 BRA
 CAN
 CHE
-ESP
-NLD
 USA
 VIR
